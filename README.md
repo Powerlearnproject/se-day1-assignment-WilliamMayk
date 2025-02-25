@@ -20,7 +20,7 @@ Identify and describe at least three key milestones in the evolution of software
 
 List and briefly explain the phases of the Software Development Life Cycle.
 
-- **Planning:** it is the stage where we are gathering business requirements from your client or stakeholders
+- **Planning:** This is the stage where we are gathering business requirements from your client or stakeholders
 - **Requirement Analysis:** This phase is critical for converting the information gathered during the planning and analysis phase into clear requirements for the development team.
 - **Design:** The design phase is where you put pen to paper—so to speak. In most cases, the design phase will include the development of a prototype model.
 - **Coding:** The Coding phase in the Software Development Life Cycle (SDLC) is when engineers and developers get down to business and start converting the software design into tangible code.
@@ -28,14 +28,14 @@ List and briefly explain the phases of the Software Development Life Cycle.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
-**The waterfall mmethodology** arranges all the phases sequentially so that each new phase depends on the outcome of the previous phase.
+**The waterfall methodology** arranges all the phases sequentially so that each new phase depends on the outcome of the previous phase.
 
 - Clear and predictable project timeline and budget.
 - Well-suited for projects with fixed requirements.
 - Lack of flexibility to adapt to changing requirements.
 - Limited customer involvement during development.
 
-**The agile methodology** The agile model arranges the SDLC phases into several development cycles. The team iterates through the phases rapidly, delivering only small, incremental software changes in each cycle.
+**The agile methodology** arranges the SDLC phases into several development cycles. The team iterates through the phases rapidly, delivering only small, incremental software changes in each cycle.
 
 - Highly flexible and adaptable to change.
 - Continuous customer involvement and feedback.
@@ -114,7 +114,6 @@ Explain the different types of testing (unit, integration, system, and acceptanc
 - **Acceptance Tests:** These tests confirm that the finished application fulfills the business needs and works as expected by users.
 
 #Part 2: Introduction to AI and Prompt Engineering
-
 
 Define prompt engineering and discuss its importance in interacting with AI models.
 
